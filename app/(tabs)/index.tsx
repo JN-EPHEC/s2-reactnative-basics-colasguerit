@@ -1,4 +1,3 @@
-import TodoItem from "@/components/TodoItem"; // chemin selon ton alias @
 import React from "react";
 import { SafeAreaView, StyleSheet, Text, View } from "react-native";
 
