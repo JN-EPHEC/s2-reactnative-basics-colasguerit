@@ -2,6 +2,7 @@ import React from "react";
 import { Image, StyleSheet, Text, View } from "react-native";
 
 // Define the props interface for type safety
+//devoir s3
 interface ProfileCardProps {
   name: string;
   jobTitle: string;
